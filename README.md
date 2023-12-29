@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbbasMammad
 - 👀 I’m interested in Data Science/Analysis, working with big data, creating visualizations, etc.
 - 🌱 I’m currently learning Python, R, SQL, Tableau, etc.
-- 💞️ I’m looking to collaborate on any data analysis projects.
+- 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me by email: AbbasMammad@yahoo.com
 
 <!---
